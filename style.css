@@ -1,0 +1,54 @@
+body{
+  background-color: #026873;
+  background-color: #f1f0f2;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23ffffff' fill-opacity='1' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");    
+
+}
+
+.header{
+  text-align: center;
+  color: #319CBA;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black; 
+}
+.
+h1{
+  margin-bottom: -18px;
+}
+h4{
+    margin-bottom: -10px;
+
+}
+h5{
+  line-height: 0em;
+}
+
+.summary{
+  text-align: center;
+  color: black;
+  margin-bottom: -10px;
+    
+}
+.education-header{
+  text-align: center; 
+  text-decoration: underline;
+}
+
+.experience-header{
+  text-align: center;
+  text-decoration: underline;
+
+}
+.academ-awards{
+  text-align: center;
+  text-decoration: underline;
+
+}
+.experience-header{
+  text-align: center;
+  text-decoration: underline;
+
+}
+.prof-awards{
+  text-align: center;
+}
