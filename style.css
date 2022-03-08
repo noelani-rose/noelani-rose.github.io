@@ -11,19 +11,17 @@ body{
   border-top: 1px solid black;
   border-bottom: 1px solid black; 
 }
-.
 h1{
   margin-bottom: -18px;
 }
 h4{
     margin-bottom: -10px;
-
 }
 h5{
   line-height: 0em;
 }
 
-.all-arts {
+.all-arts{
   margin: 0;
   padding: 5px;
   background-color: lightgray;
@@ -37,9 +35,9 @@ h5{
 .summary{
   text-align: center;
   color: black;
-  margin-bottom: -10px;
-    
+  margin-bottom: -10px;   
 }
+
 .education-header{
   text-align: center;
   text-decoration: underline;
@@ -60,17 +58,13 @@ h5{
   text-decoration: underline;
 }
 
-
-
 .academ-awards{
   text-align: center;
   text-decoration: underline;
-
 }
 
 #coastline1{
   line-height: 0em;
-
 }
 
 .experience-header{
