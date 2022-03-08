@@ -23,6 +23,16 @@ h5{
   line-height: 0em;
 }
 
+.all-arts {
+  margin: 0;
+  padding: 5px;
+  background-color: lightgray;
+}
+
+.art{
+  background-color: 
+}
+
 .summary{
   text-align: center;
   color: black;
